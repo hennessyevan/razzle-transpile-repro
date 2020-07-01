@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "map-obj/*": "map-obj/*"
+    }
+  }
+}
